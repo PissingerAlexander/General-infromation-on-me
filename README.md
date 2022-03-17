@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in C++ (Progamming)
+- 👀 I’m interested in C++, Java, ... (Progamming)
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me goa ned
