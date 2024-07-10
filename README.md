@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in C++, Java, ... (Progamming)
-- 🌱 I’m currently learning Computer Science
-- 📫 How to reach me goa ned
+- 👀 I’m interested in C, C++, Rust, Zig, Java, JavaScript, TypeScript, Bash
+- 🌱 I’m currently studying Computer Science at Ostbayerische Technische Hochschule Regensburg
+- 💼 I'm currently working as student employee
