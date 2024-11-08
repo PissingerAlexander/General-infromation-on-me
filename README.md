@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in C, C++, Rust, Zig, Java, JavaScript, TypeScript, Bash
-- 🌱 I’m currently studying Computer Science at Ostbayerische Technische Hochschule Regensburg
+- 🌱 I’m currently studying computer science at Ostbayerische Technische Hochschule Regensburg
 - 💼 I'm currently working as student employee
